@@ -8,10 +8,12 @@
   
   
   </p>
-  🌎 - If you'd like to hire me, you can contact me at [my wesite](https://www.seailz.com)
+  🌎 - If you'd like to hire me, you can contact me at https://seailz.com
   
   </p>
   Stats:
   </p>
-  [![Stats](https://github-readme-stats.vercel.app/api?username=seailz)](https://www.seailz.com)
+  
+  [![My Stats](https://github-readme-stats.vercel.app/api?username=seailz)](https://seailz.com)
+  
 </div>
