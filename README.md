@@ -13,6 +13,6 @@
   </p>
   Stats:
   </p>
-  [![Stats](https://github-readme-stats.vercel.app/api?username=seailz)](www.seailz.com)
+[![Stats](https://github-readme-stats.vercel.app/api?username=seailz)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
