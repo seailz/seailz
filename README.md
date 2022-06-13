@@ -13,5 +13,5 @@
   </p>
   Stats:
   </p>
-  https://github-readme-stats.vercel.app/api?username=seailz
+  [![Stats](https://github-readme-stats.vercel.app/api?username=seailz)](https://www.seailz.com)
 </div>
