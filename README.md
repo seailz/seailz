@@ -3,6 +3,8 @@
   # <u>Hello there 👋, I'm Seailz! 🦭</u>
   <b>I'm a Java developer currently making Spigot plugins.</b>
   
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=seailz&label=Profile%20views&color=0e75b6&style=flat-square" alt="veiws" /> </p>
+  
   Things I'm experienced with: </p>
   [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,linux,idea,github,discord)](https://seailz.com)
   
