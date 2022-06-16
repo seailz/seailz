@@ -1,7 +1,7 @@
 <div align="center">
   
   # <u>Hello there 👋, I'm Seailz! 🦭</u>
-  I'm a Java developer currently making Spigot plugins.
+  <b>I'm a Java developer currently making Spigot plugins.</b>
   
   Things I'm experienced with: </p>
   [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,linux,idea,github,discord)](https://seailz.com)
