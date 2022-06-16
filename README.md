@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Hello there, I'm Seailz! 🦭
+  # <u>Hello there 👋, I'm Seailz! 🦭</u>
   I'm a Java developer currently making Spigot plugins.
   
   Things I'm experienced with: </p>
