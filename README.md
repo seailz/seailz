@@ -18,4 +18,5 @@
   
   [![My Stats](https://github-readme-stats.vercel.app/api?username=seailz)](https://seailz.com)
   
+  _it's over github, i have the high stars_
 </div>
