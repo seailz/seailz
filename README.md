@@ -1,6 +1,6 @@
 <div align="center">
   
-  # <u>Hello there 👋, I'm Seailz! 🦭</u>
+  # <u>Hi 👋, I'm Seailz! 🦭</u>
   <b>I'm a Java developer currently making Spigot plugins & Discord bots.</b>
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=seailz&label=Profile%20views&color=0e75b6&style=flat-square" alt="veiws" /> </p>
