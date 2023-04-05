@@ -7,12 +7,7 @@
   
   Things I'm experienced with: </p>
   [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,linux,idea,github,discord)](https://seailz.com)
-  
-  
-  </p>
-  🌎 - If you'd like to hire me, you can contact me at https://seailz.com
-  
-  </p>
+
   Stats:
   </p>
   
