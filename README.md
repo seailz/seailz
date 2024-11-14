@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=seailz&label=Profile%20views&color=0e75b6&style=flat-square" alt="veiws" />
 
-👋 hii, i'm george/seailz, a self-taught full-stack software engineer from the UK with 3 years of experience. i primarly develop applications for the [discord api](https://discord.dev), with one of my main projects at the moment being [discord.jar](https://github.com/discord-jar/discord.jar), a library developed for that api.
+👋 hii, i'm george/seailz, a self-taught full-stack software engineer from the UK with 5 years of experience. i primarly develop applications for the [discord api](https://discord.dev), with one of my main projects at the moment being [discord.jar](https://github.com/discord-jar/discord.jar), a library developed for that api.
 
 stuff I work with:<br>
 <img width="30" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png">
