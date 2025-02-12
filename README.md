@@ -1,8 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=seailz&label=Profile%20views&color=0e75b6&style=flat-square" alt="veiws" />
 
-👋 hii, i'm george/seailz, a self-taught full-stack software engineer from the UK with 5 years of experience. i primarly develop applications for the [discord api](https://discord.dev), with one of my main projects at the moment being [discord.jar](https://github.com/discord-jar/discord.jar), a library developed for that api.
+👋 Hi! I'm George, a self-taught full-stack software engineer from the UK with 5 years of experience. i primarly develop applications for the web, but my open source projects usually relate to the [Discord API](https://discord.dev), with one of my main projects at the moment being [discord.jar](https://github.com/discord-jar/discord.jar).
 
-stuff I work with:<br>
+Stuff I work with:<br>
 <img width="30" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png">
 <img width="30" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png">
 <img width="30" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png">
@@ -37,4 +37,4 @@ stuff I work with:<br>
 <img width="30" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png">
 
 <p>
-my portfolio can be found <a href="https://slz.lol">here</a> & you can contact me on discord @seailz or email me, me@ioyo.dev
+My portfolio can be found <a href="https://slz.lol">here</a> & you can contact me on Discord @seailz or email me, me@ioyo.dev
