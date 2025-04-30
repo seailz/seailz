@@ -37,4 +37,4 @@ Stuff I work with:<br>
 <img width="30" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png">
 
 <p>
-My portfolio can be found <a href="https://slz.lol">here</a> & you can contact me on Discord @seailz or email me, me@ioyo.dev
+My portfolio can be found <a href="https://slz.lol">here</a> & you can contact me on Discord @seailz or email me, george@slz.lol
